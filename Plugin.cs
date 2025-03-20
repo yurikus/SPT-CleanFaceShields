@@ -7,7 +7,7 @@ namespace CleanFaceShields;
 [BepInPlugin("com.penguingreentea.CleanFaceShields", "CleanFaceShields", PluginVersion)]
 public class Plugin : BaseUnityPlugin
 {
-    public const string PluginVersion = "1.0.2";
+    public const string PluginVersion = "1.0.2.1";
 
     public static ManualLogSource LogSource;
 
